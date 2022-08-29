@@ -3,3 +3,31 @@
     height: 180px;
     border-radius: 50%;
 }
+
+.items{
+    height: 55vh;
+}
+
+.item1{
+    background-image: url("https://preview.colorlib.com/theme/burger/img/burgers/x1.png.pagespeed.ic.MG4dhTjzVI.webp");
+    background-position: center;
+    background-size: cover;
+    padding: 30px;
+}
+
+.item2{
+    background-image: url("https://preview.colorlib.com/theme/burger/img/burgers/x2.png.pagespeed.ic.IQp1I0egCo.webp");
+    background-position: center;
+    background-size: cover;
+}
+
+.video{
+    background-image: url("https://preview.colorlib.com/theme/burger/img/video/xvideo.png.pagespeed.ic.WqHGFh-0fz.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.font{
+    font-size: 60px;
+}
